@@ -1,0 +1,32 @@
+    /*start body */
+body {
+    background-color: darkgreen;
+    font-family: helvetica,arial,sans-serif;
+    line-height: 1.5em;
+    margin : 0;
+    padding : 0;
+}
+/* End Body */
+
+/* Start Debug */
+.bg-blue {
+    background-color: blue;
+}
+.bg-red {
+    backgrond-color: red;
+}
+/* End Debug */
+
+/* Start Container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%;
+}
+
+.Container-full {
+    margin: 10px auto;
+    overflow: auto;
+    widht: 100%;
+}
+/* End container */
